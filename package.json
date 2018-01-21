@@ -27,6 +27,7 @@
     "classnames": "^2.2.5",
     "lodash": "^4.16.6",
     "objectpath": "^1.2.1",
+    "react": "^16.2.0",
     "tv4": "^1.2.7"
   },
   "devDependencies": {
@@ -42,10 +43,11 @@
     "css-loader": "^0.25.0",
     "eslint": "^3.9.1",
     "eslint-plugin-react": "^6.5.0",
+    "install-peers": "^1.0.2",
     "jest-cli": "^16.0.2",
     "less": "^2.7.1",
     "less-loader": "^2.2.3",
-    "material-ui": "^0.18.7",
+    "material-ui": "^1.0.0-beta.29",
     "react-addons-test-utils": "^15.3.2",
     "react-hot-loader": "^3.0.0-beta.6",
     "react-tap-event-plugin": "^2.0.0",
